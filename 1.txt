@@ -1,2 +1,6 @@
 Linia pierwsza
-Linia trzecia
+<<<<<<< HEAD
+Linia druga
+=======
+Linia druga
+>>>>>>> test
